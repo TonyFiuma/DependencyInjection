@@ -1,6 +1,6 @@
 # DependencyInjection
 
-Series of exercise with Spring boot completed with the school of develop
+Set of exercise with Spring boot completed in developer school
 
 # Exercise - Spring Boot - Dependency Injection
 * create a `Spring Boot` application using `Spring Initializr` that has the following dependencies:
